@@ -1,6 +1,8 @@
 yii2-widgets
 ============
 
+nbogol version
+
 This extension enhances or adds functionality to existing Yii Framework 2 Widgets to make available other bundled features available in Bootstrap 3.0, new HTML 5 features and affiliated Bootstrap extras.
 
 > NOTE: This extension has been revamped with release v3.4.0 on 09-Nov-2014. With release v3.4.0, each widget within this extension bundle has been logically regrouped and split into separate sub repositories. 
