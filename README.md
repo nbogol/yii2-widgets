@@ -1,7 +1,7 @@
 yii2-widgets
 ============
 
-nbogol version
+nbogol version - master
 
 This extension enhances or adds functionality to existing Yii Framework 2 Widgets to make available other bundled features available in Bootstrap 3.0, new HTML 5 features and affiliated Bootstrap extras.
 
